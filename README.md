@@ -53,7 +53,7 @@ Draw in the air with your dominant hand and manipulate your creations in real-ti
 
 ## 👨‍💻 Developer
 **Maddur Vignesh**  
-🐙 GitHub: [maddur-vignesh](https://github.com/maddur-vignesh)
+🐙 GitHub: [maddurvignesh](https://github.com/maddurvignesh)
 
 ---
 *Built with passion for AI and Spatial Computing.*
